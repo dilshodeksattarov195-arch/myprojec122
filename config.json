@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchderify",
+        "uuid": 319762,
+        "checksum": "cumuj"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
